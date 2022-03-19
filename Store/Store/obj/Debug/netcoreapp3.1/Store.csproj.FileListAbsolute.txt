@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\bin\Debug\netcoreapp3.1\Store.exe
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\bin\Debug\netcoreapp3.1\Store.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\bin\Debug\netcoreapp3.1\Store.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\bin\Debug\netcoreapp3.1\Store.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\bin\Debug\netcoreapp3.1\Store.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\obj\Debug\netcoreapp3.1\Store.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\obj\Debug\netcoreapp3.1\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\obj\Debug\netcoreapp3.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\obj\Debug\netcoreapp3.1\Store.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\obj\Debug\netcoreapp3.1\Store.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\8. 18032022\Store\Store\obj\Debug\netcoreapp3.1\Store.genruntimeconfig.cache
